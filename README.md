@@ -16,7 +16,7 @@
 隨機化快速排序（Randomized Quick Sort）是快速排序的一種變體，<br>
 它在選擇基準點時使用隨機選取的方式，以減少對特定輸入的敏感性，提高性能。<br>
 <br>
-隨機化快速快速排序的過程如下：<br>
+隨機化快速排序的過程如下：<br>
 - 選擇基準點：從數列中隨機選擇一個基準點。這個基準點將用於劃分數列。
 - 分區：
   - 使用快速排序的Lomuto分區或Hoare分區方案將數列劃分為兩個子數列。
@@ -43,7 +43,7 @@
 ---
 
 ## 參考資料
-* [RUNNOOB - 随机化快速排序](https://www.runoob.com/data-structures/random-quick-sort.html) <br>
+* [RUNOOB - 随机化快速排序](https://www.runoob.com/data-structures/random-quick-sort.html) <br>
 
 ---
 
