@@ -43,7 +43,7 @@
 ---
 
 ## 參考資料
-* [RUNNOOB - 随机化快速排序](https://www.runoob.com/data-structures/random-quick-sort.html)) <br>
+* [RUNNOOB - 随机化快速排序](https://www.runoob.com/data-structures/random-quick-sort.html) <br>
 
 ---
 
